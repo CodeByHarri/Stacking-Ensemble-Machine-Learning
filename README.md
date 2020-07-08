@@ -1,4 +1,4 @@
-# Stacking Ensemble Machine Learning
+# Stacking Generalization or Ensemble Machine Learning
 
 The following notebook is a work in progress. 
 
