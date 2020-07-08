@@ -1,6 +1,6 @@
 # Stacked Generalization or Ensemble Machine Learning
 
-The following notebook is a work in progress. 
+The following notebook is a work in progress. Level 1: 0% complete | Level 2: 80% complete
 
 <p float="left">
   <img src="IMGs/arch.PNG" width="99%" />
