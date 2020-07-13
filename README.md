@@ -10,6 +10,12 @@ This notebook aims to be a template for regression tasks by stacking three machi
 
 Models used in this notebook: 
 
+	- Multi-layer Perceptron 
+	- K-Neighbours
+	- Support Vector
+	- Gaussian Process   +  Radial-Basis Function  
+	- Gaussian Naïve Bayes
+	- Quadratic Discriminant Analysis
 	- Linear Regression 
 	- Lasso
 	- Ridge
