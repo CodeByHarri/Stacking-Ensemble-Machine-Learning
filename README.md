@@ -22,4 +22,3 @@ Models used in this notebook:
 Areas for possible improvement: 
 
 	- Additional parameters to tune
-	- Classification models 
